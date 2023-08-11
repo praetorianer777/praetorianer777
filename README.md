@@ -1,5 +1,6 @@
 ### It's-A me, Steve!
 
+# Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **praetorianer777/praetorianer777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
